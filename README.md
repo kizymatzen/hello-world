@@ -1,2 +1,2 @@
 # hello-world
-a repository
+First repository so far, I'm excited for the next ones.
